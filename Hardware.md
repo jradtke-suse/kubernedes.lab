@@ -14,13 +14,13 @@
 ## VMware vSphere Nodes
 | Cost | Qty | Total | Object       | Purpose                   | Link |
 |:----:|:----|:------|:-------------|:--------------------------|:-----|
-| 589 | 1 | 589 | Intel NUC INNUC13ANHI7 | VMware ESXi Host | https://www.bhphotovideo.com/c/product/1780655-REG/intel_rnuc13anhi7000u_nuc_13_pro_kit.html |
-| 139 | 1 | 139 | Crucial Memory (2 x 32GB) | Memory for ESXi Host | https://www.bhphotovideo.com/c/product/1600343-REG/crucial_ct2k32g4sfd832a_2_32gb_ddr4_3200_sodimm_1_2v.html | 
-| 75 | 1 | 75 | Crucial 2.5" SSD | OSDATA for ESXi Host | https://www.bhphotovideo.com/c/product/1512570-REG/crucial_ct1000bx500ssd1_1tb_bx500_sata_iii.html |
-| 84 | 1 | 84 | 42mm SATA 1TB SSD | Data Store for ESXi Host | https://www.amazon.com/dp/B0BRSMW121?psc=1&smid=A3BTFWKGLBT0VA&ref_=chk_typ_imgToDp |
-| 77 | 1 | 77 | 80mm NVMe 1TB SSD | Data Store for ESXi Host | https://www.amazon.com/dp/B09QV692XY?psc=1&smid=A3RXWDYTBSNEDO&ref_=chk_typ_imgToDp |
+| 589 | 2 | 589 | Intel NUC INNUC13ANHI7 | VMware ESXi Host | https://www.bhphotovideo.com/c/product/1780655-REG/intel_rnuc13anhi7000u_nuc_13_pro_kit.html |
+| 139 | 2 | 139 | Crucial Memory (2 x 32GB) | Memory for ESXi Host | https://www.bhphotovideo.com/c/product/1600343-REG/crucial_ct2k32g4sfd832a_2_32gb_ddr4_3200_sodimm_1_2v.html | 
+| 75 | 2 | 75 | Crucial 2.5" SSD | OSDATA for ESXi Host | https://www.bhphotovideo.com/c/product/1512570-REG/crucial_ct1000bx500ssd1_1tb_bx500_sata_iii.html |
+| 84 | 2 | 84 | 42mm SATA 1TB SSD | Data Store for ESXi Host | https://www.amazon.com/dp/B0BRSMW121?psc=1&smid=A3BTFWKGLBT0VA&ref_=chk_typ_imgToDp |
+| 77 | 2 | 77 | 80mm NVMe 1TB SSD | Data Store for ESXi Host | https://www.amazon.com/dp/B09QV692XY?psc=1&smid=A3RXWDYTBSNEDO&ref_=chk_typ_imgToDp |
 |======|=======|=======| | | 
-|      | Totol | 964 | | | 
+|      | Totol | 1928 | | | 
 
 ## "SAN" Nodes (TrueNAS)
 | Cost | Qty | Total | Object       | Purpose                   | Link |
