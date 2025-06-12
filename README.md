@@ -4,6 +4,8 @@ Kubernerdes.lab is my Lab/Demo environment using commodity "homelab" type gear. 
 
 ## Products
 
+* SUSE Linux Enterprise Server (aka SLES)
+* SUSE Linux Micro (aka SL-Micro)
 * SUSE Multi-Linux Manager (fka SUSE Manager)
 * SUSE Rancher
 * SUSE Rancher Kubernetes Engine 2 (aka RKE2)
@@ -11,6 +13,7 @@ Kubernerdes.lab is my Lab/Demo environment using commodity "homelab" type gear. 
 * SUSE Security (fka Neuvector)
 * SUSE Observability (fka StackState)
 * SUSE AI 
+* SUSE Edge
 * SUSE Private Registry 
 * VMware vSphere 
 * freeNAS
