@@ -40,7 +40,7 @@ I am not going to put a cost here as I assume that most people exploring this Re
 |      | 1   |   | Mouse | |
 |      | 1   |   | Monitor | |
 |      | 1   |   | 4-port KVM Switch | |
-|      | 1   |   | USB Stick (16GB) | Installing Ubuntu | |
+|      | 1   |   | USB Stick (16GB) | Installing SLES 15 | |
 |      | 1   |   | USB Stick (16GB) | Installing TrueNAS | |
 |      | 1   |   | USB Stick (16GB) | Installing ESXi | |
 |      | 1   |   | APC UPS | Battery Backup | | 
