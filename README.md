@@ -18,4 +18,7 @@ Kubernerdes.lab is my Lab/Demo environment using commodity "homelab" type gear. 
 * VMware vSphere 
 * freeNAS
 
+## Architecture
+![High-Level Architecture](./Images/kubernerdes.lab.png)
 
+## References
