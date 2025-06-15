@@ -1,6 +1,18 @@
 # Hardware
 
-## Harvester Nodes
+| System | Purpose | Model | CPU (cores) | CPU model | Mem | Disk0 | Disk1 |
+|:-------|:--------|:------|:------------|:----------|:-----|:-----|:------|
+| nuc0   | Admin Host | NUC10i7FNK | 12 | i7-10710U | 64 | 1024 | x |
+|--------|------------|------------|----|-----------|----|------|------|
+| nuc1   | Harvester  | NUC10i7FNH | 12 | i7-10710U | 64 | 1024 | 2048 |
+| nuc2   | Harvester  | NUC10i7FNH | 12 | i7-10710U | 64 | 1024 | 2048 |
+| nuc3   | Harvester  | NUC10i7FNH | 12 | i7-10710U | 64 | 1024 | 2048 |
+|--------|------------|------------|----|-----------|----|------|------|
+| nuc4   | Virt Node  | NUC13ANHi7 | 12 | i7-10710U | 64 | 1024 | ?x |
+| nuc5   | Virt Node  | NUC13ANHi7 | 12 | i7-10710U | 64 | 1024 | ?x |
+
+
+## NUC version 1
 | Cost | Qty | Total | Object       | Purpose                   | Link |
 |:----:|:----|:------|:-------------|:--------------------------|:-----|
 | 359  | 1   | 359   | Intel NUC    | Admin Host                | [Amazon - Intel NUC NUC10i7FNK1](https://www.amazon.com/gp/product/B083GGZ6TG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1) |
@@ -11,7 +23,7 @@
 |======|=======|=======| | | 
 |      | Totol | 2670   | | | 
 
-## VMware vSphere Nodes
+## NUC version 2
 | Cost | Qty | Total | Object       | Purpose                   | Link |
 |:----:|:----|:------|:-------------|:--------------------------|:-----|
 | 589 | 2 | 589 | Intel NUC INNUC13ANHI7 | VMware ESXi Host | https://www.bhphotovideo.com/c/product/1780655-REG/intel_rnuc13anhi7000u_nuc_13_pro_kit.html |
