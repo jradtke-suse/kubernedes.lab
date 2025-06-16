@@ -19,6 +19,6 @@ Kubernerdes.lab is my Lab/Demo environment using commodity "homelab" type gear. 
 * freeNAS
 
 ## Architecture
-![High-Level Architecture](./Images/kubernerdes.lab-whitebg.png)
+![High-Level Architecture](./Images/kubernerdes.lab.png)
 
 ## References
