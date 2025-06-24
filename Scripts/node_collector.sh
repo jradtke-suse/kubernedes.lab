@@ -1,6 +1,7 @@
 #!/bin/bash
 # -x
 
+
 #set -euo pipefail
 
 # Default kubeconfig location
