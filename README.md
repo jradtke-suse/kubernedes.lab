@@ -16,7 +16,7 @@ Kubernerdes.lab is my Lab/Demo environment using commodity "homelab" type gear. 
 * SUSE Edge
 * SUSE Private Registry 
 * VMware vSphere 
-* freeNAS
+* trueNAS Core
 
 ## Architecture
 ![High-Level Architecture](./Images/kubernerdes.lab.png)
