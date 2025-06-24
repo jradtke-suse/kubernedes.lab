@@ -21,4 +21,15 @@ Kubernerdes.lab is my Lab/Demo environment using commodity "homelab" type gear. 
 ## Architecture
 ![High-Level Architecture](./Images/kubernerdes.lab.png)
 
+
+## Projects
+
+harvester.kubernerdes.lab
+multi-linux-manager.kubernerdes.lab
+observability.kubernerdes.lab
+rancher.kubernerdes.lab
+registry.kubernerdes.lab
+
+kubernerdes.com
+
 ## References
