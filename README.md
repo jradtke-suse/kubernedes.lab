@@ -27,12 +27,13 @@ Kubernerdes.lab is my Lab/Demo environment using commodity "homelab" type gear. 
 
 ## Projects
 
-harvester.kubernerdes.lab
-multi-linux-manager.kubernerdes.lab
-observability.kubernerdes.lab
-rancher.kubernerdes.lab
-registry.kubernerdes.lab
+These will all have their own Repos (eventually)
 
-kubernerdes.com
+* harvester.kubernerdes.lab
+* multi-linux-manager.kubernerdes.lab
+* observability.kubernerdes.lab
+* rancher.kubernerdes.lab
+* registry.kubernerdes.lab
+* kubernerdes.com
 
 ## References
