@@ -21,10 +21,6 @@ Kubernerdes.lab is my Lab/Demo environment using commodity "homelab" type gear. 
 ## Architecture
 ![High-Level Architecture](./Images/kubernerdes.lab.png)
 
-## Hardware
-![Hardware in Rack](./Images/HomeLab-Hardware.png)
-
-
 ## Projects
 
 These will all have their own Repos (eventually)
